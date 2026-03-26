@@ -13,7 +13,7 @@ android.permission.ACCESS_NETWORK_STATE
 Just an .apk file to install on Android 10+
 The app. shows messages that sent to a TOPIC . The Log view (TextBox) can show 5000 chars (bytes) and cut the messages for the last 3000 chars. 
 The decoding is UTF8 .
-The App. has 15 days trial period . After Trial Period it shows 50 messages only .
+The App. has 15 days trial period . After Trial Period it shows 50 messages only and After this event just shows 3 last received message . Also showing messages not in real time and it's after 2 second
 
 ## Screenshots
 
